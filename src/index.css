@@ -14,3 +14,27 @@
   scroll-behavior: smooth;
   font-family: "Grifterbold", sans-serif;
 }
+
+body {
+  background-color: #150725;
+}
+
+/* gradients */
+.bg-button-gradient {
+  border-radius: 8px 8px 18px 18px;
+  background: linear-gradient(
+    78deg,
+    #fbfbfb -48.4%,
+    #80f 198.45%,
+    #80f 198.45%
+  );
+}
+
+.bg-mobilenav-gradient {
+  background: linear-gradient(
+    144.39deg,
+    #08ddfa -278.56%,
+    #5704a0 -78.47%,
+    #150725 91.61%
+  );
+}

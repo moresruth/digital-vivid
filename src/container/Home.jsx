@@ -4,8 +4,8 @@ import { Button, FloatCard } from "../components";
 
 const Home = () => {
   return (
-    <>
-      <section id="home" className="relative my-[5rem] md:my-[8rem] ">
+    <section id="home">
+      <div className="relative my-[5rem] md:my-[8rem] ">
         <div className="container flex flex-col-reverse sm:flex-row items-center px-6  mx-auto  space-y-0 md:py-12">
           {/* details container */}
           <div className="flex flex-col items-center md:w-3/5 py-2 sm:items-start ">
@@ -48,9 +48,9 @@ const Home = () => {
           </div>
         </div>
         {/* bg gradient */}
-        <div className="absolute z-[0] w-[50%] h-[30%] rounded-sm left-[20rem] bottom-[10rem] bg-home-gradient" />
-      </section>
-    </>
+        {/* <div className="absolute z-[0] w-[50%] h-[30%] rounded-sm left-[20rem] bottom-[10rem] bg-home-gradient" /> */}
+      </div>
+    </section>
   );
 };
 

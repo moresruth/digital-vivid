@@ -17,6 +17,7 @@
 
 body {
   background-color: #150725;
+  color: #fff;
 }
 
 /* gradients */
@@ -37,6 +38,8 @@ body {
     #5704a0 -78.47%,
     #150725 91.61%
   );
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
 }
 
 .bg-home-gradient {
@@ -58,4 +61,15 @@ body {
   backdrop-filter: blur(15px);
   -webkit-backdrop-filter: blur(15px);
   opacity: 0.4;
+}
+
+.bg-collection {
+  background: linear-gradient(180deg, #08ddfa 112.8%, #d216be 189.04%);
+  filter: blur(500px);
+  -webkit-filter: blur(500px);
+}
+
+.bg-collectioncard {
+  background: rgba(29, 25, 67, 0.75);
+  border-radius: 10px;
 }

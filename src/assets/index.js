@@ -7,6 +7,7 @@ import people01 from './people01.svg'
 import nftart01 from './nftart01.svg'
 import nftart02 from './nftart02.svg'
 import nftart03 from './nftart03.svg'
+import worksImg from './works-image.svg'
 
 export{
     logo,
@@ -18,4 +19,5 @@ export{
     nftart01,
     nftart02,
     nftart03,
+    worksImg,
 }

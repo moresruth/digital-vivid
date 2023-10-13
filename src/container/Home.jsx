@@ -48,7 +48,7 @@ const Home = () => {
           </div>
         </div>
         {/* bg gradient */}
-        {/* <div className="absolute z-[0] w-[50%] h-[30%] rounded-sm left-[20rem] bottom-[10rem] bg-home-gradient" /> */}
+        <div className="absolute z-[0] w-[50%] h-[30%] rounded-sm left-[20rem] bottom-[10rem] bg-home-gradient" />
       </div>
     </section>
   );

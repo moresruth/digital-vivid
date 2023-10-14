@@ -104,3 +104,13 @@ body {
   box-shadow: 0px 17px 12px -10px rgba(0, 0, 0, 0.12);
   backdrop-filter: blur(15px);
 }
+
+.bg-footer {
+  background: linear-gradient(87deg, #08defa5f -18.84%, #eee6028e 102.83%);
+  backdrop-filter: blur(150px);
+  -webkit-backdrop-filter: blur(150px);
+}
+
+.bg-socialmedia {
+  background: linear-gradient(180deg, #80f 0%, rgba(30, 184, 231, 0.42) 100%);
+}

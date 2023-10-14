@@ -20,6 +20,11 @@ import profile07 from './profile07.svg'
 import profile08 from './profile08.svg'
 import profile09 from './profile09.svg'
 import newsletter from './newsletter.svg'
+import discord from './discord.svg'
+import facebook from './facebook.svg'
+import linkedin from './linkedin.svg'
+import twitter from './twitter.svg'
+
 
 export{
     logo,
@@ -44,4 +49,8 @@ export{
     profile08,
     profile09,
     newsletter,
+    facebook,
+    discord,
+    linkedin,
+    twitter,
 }

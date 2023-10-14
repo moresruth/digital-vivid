@@ -1,6 +1,13 @@
 import React from "react";
 import { Navbar, Newsletter, Stats } from "./components";
-import { About, Collection, Home, HowItWorks, TopCreator } from "./container";
+import {
+  About,
+  Collection,
+  Footer,
+  Home,
+  HowItWorks,
+  TopCreator,
+} from "./container";
 
 function App() {
   return (
@@ -13,6 +20,7 @@ function App() {
       <HowItWorks />
       <TopCreator />
       <Newsletter />
+      <Footer />
     </div>
   );
 }

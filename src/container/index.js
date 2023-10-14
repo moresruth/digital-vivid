@@ -4,6 +4,7 @@ import Collection from './Collection';
 import About from './About';
 import HowItWorks from './HowItWorks';
 import TopCreator from './TopCreator';
+import Footer from './Footer';
 
 export{
     Home,
@@ -11,4 +12,5 @@ export{
     About,
     HowItWorks,
     TopCreator,
+    Footer,
 }

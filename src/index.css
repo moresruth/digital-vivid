@@ -88,3 +88,19 @@ body {
   background: rgba(255, 255, 255, 0.6);
   filter: blur(200px);
 }
+
+.bg-newsletter-gradient {
+  border-radius: 24px;
+  background: linear-gradient(
+    99deg,
+    #230c3b -2.01%,
+    rgba(191, 138, 247, 0.1) 300.81%
+  );
+}
+
+.bg-form-gradient {
+  border-radius: 25px 0px;
+  background: rgba(197, 162, 230, 0.48);
+  box-shadow: 0px 17px 12px -10px rgba(0, 0, 0, 0.12);
+  backdrop-filter: blur(15px);
+}

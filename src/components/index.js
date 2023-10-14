@@ -5,6 +5,7 @@ import Stats from './Stats';
 import SectionTitle from './SectionTitle';
 import CollectionCard from './CollectionCard';
 import CreatorsCard from './CreatorsCard';
+import Newsletter from './Newsletter';
 
 export {
     Navbar,
@@ -14,5 +15,6 @@ export {
     SectionTitle,
     CollectionCard,
     CreatorsCard,
+    Newsletter,
   
 }

@@ -19,6 +19,7 @@ import profile06 from './profile06.svg'
 import profile07 from './profile07.svg'
 import profile08 from './profile08.svg'
 import profile09 from './profile09.svg'
+import newsletter from './newsletter.svg'
 
 export{
     logo,
@@ -42,4 +43,5 @@ export{
     profile07,
     profile08,
     profile09,
+    newsletter,
 }

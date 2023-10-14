@@ -6,7 +6,7 @@ const TopCreator = () => {
   return (
     <section id="creators" className="container py-11  mx-auto items-center">
       <SectionTitle />
-      <div className="px-3 md:max-w-lx grid sm:grid-flow-row-dense sm:grid-cols-3 ">
+      <div className="px-3 md:max-w-lx grid grid-cols-2 sm:grid-flow-row-dense sm:grid-cols-3 ">
         {creators.map((card) => (
           <CreatorsCard key={card.id} {...card} />
         ))}

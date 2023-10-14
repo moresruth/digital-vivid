@@ -1,5 +1,5 @@
 import React from "react";
-import { Navbar, Stats } from "./components";
+import { Navbar, Newsletter, Stats } from "./components";
 import { About, Collection, Home, HowItWorks, TopCreator } from "./container";
 
 function App() {
@@ -12,6 +12,7 @@ function App() {
       <About />
       <HowItWorks />
       <TopCreator />
+      <Newsletter />
     </div>
   );
 }

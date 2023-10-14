@@ -1,8 +1,7 @@
-# React + Vite
+# DigitalVivid Single Page Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DigitalVivid is a modern NFT landing page I designed and developed to level up my front-end skills. This one-page website works fully responsive on all devices.
 
-Currently, two official plugins are available:
+Find the website live at this link: https://moresruth.github.io/digital-vivid/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![design overview](./src/assets/overview.png)

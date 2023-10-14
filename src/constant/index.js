@@ -1,4 +1,4 @@
-import { people01, nftart01, nftart02, nftart03 } from "../assets";
+import { people01, nftart01, nftart02, nftart03, cat01, eth, profile01, profile02, profile03, profile04, profile05, profile06, profile07, profile08, profile09 } from "../assets";
 
 export const navLinks = [
     {
@@ -78,6 +78,86 @@ export const navLinks = [
       standard:"ERC-125",
       chain: 'Ethereum',
       bid:"10.70 ETH"
+    },
+   
+  ];
+  
+
+  
+  export const creators = [
+    {
+      id: "creators-1",
+      userImg: profile01,
+      name:"@morsy",
+      eth:  eth,
+      amount: "$56,608,189",
+      sold: "53 NFTs",
+    },
+
+    {
+      id: "creators-2",
+      userImg: profile02,
+      name:"@_luffy",
+      eth:  eth,
+      amount: "$56,608,189",
+      sold: "53 NFTs",
+    },
+    {
+      id: "creators-3",
+      userImg: profile03,
+      name:"@shoyo",
+      eth:  eth,
+      amount: "$56,608,189",
+      sold: "53 NFTs",
+    },
+    {
+      id: "creators-4",
+      userImg: profile04,
+      name:"@chopper",
+      eth:  eth,
+      amount: "$56,608,189",
+      sold: "53 NFTs",
+    },
+
+    {
+      id: "creators-5",
+      userImg: profile05,
+      name:"@sheldon",
+      eth:  eth,
+      amount: "$56,608,189",
+      sold: "53 NFTs",
+    },
+    {
+      id: "creators-6",
+      userImg: profile06,
+      name:"@parksmith",
+      eth:  eth,
+      amount: "$56,608,189",
+      sold: "53 NFTs",
+    },
+    {
+      id: "creators-7",
+      userImg: profile07,
+      name:"@jhondoe24",
+      eth:  eth,
+      amount: "$56,608,189",
+      sold: "53 NFTs",
+    },
+    {
+      id: "creators-8",
+      userImg: profile08,
+      name:"@_hersley",
+      eth:  eth,
+      amount: "$56,608,189",
+      sold: "53 NFTs",
+    },
+    {
+      id: "creators-9",
+      userImg: profile09,
+      name:"@23drakta",
+      eth:  eth,
+      amount: "$56,608,189",
+      sold: "53 NFTs",
     },
    
   ];

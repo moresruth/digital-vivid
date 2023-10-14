@@ -1,6 +1,6 @@
 import React from "react";
 import { Navbar, Stats } from "./components";
-import { About, Collection, Home, HowItWorks } from "./container";
+import { About, Collection, Home, HowItWorks, TopCreator } from "./container";
 
 function App() {
   return (
@@ -11,6 +11,7 @@ function App() {
       <Collection />
       <About />
       <HowItWorks />
+      <TopCreator />
     </div>
   );
 }

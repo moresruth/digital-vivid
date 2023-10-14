@@ -10,11 +10,7 @@ const About = () => {
       <div className="container flex flex-col-reverse  md:flex-row items-center px-6  mx-auto  space-y-0 md:py-12 ">
         {/* left item */}
         <div className="md:w-1/2 pt-11 ">
-          <img
-            src={aboutImg}
-            alt=""
-            className="object-contain rounded-t-[32px] rounded-b-[125px]"
-          />
+          <img src={aboutImg} alt="" className="object-contain " />
         </div>
 
         {/* right item image */}

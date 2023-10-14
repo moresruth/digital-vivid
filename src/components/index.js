@@ -4,6 +4,7 @@ import FloatCard from './FloatCard';
 import Stats from './Stats';
 import SectionTitle from './SectionTitle';
 import CollectionCard from './CollectionCard';
+import CreatorsCard from './CreatorsCard';
 
 export {
     Navbar,
@@ -12,5 +13,6 @@ export {
     Stats,
     SectionTitle,
     CollectionCard,
+    CreatorsCard,
   
 }
